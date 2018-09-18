@@ -5,7 +5,7 @@
 
 class EmailParser
 
-def parse
-end
+  def parse(emails)
+  end
 
 end
