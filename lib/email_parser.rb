@@ -8,4 +8,3 @@ class EmailParser(unformatted_emails)
   def parse
   end
 
-end
